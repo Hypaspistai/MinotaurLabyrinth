@@ -7,7 +7,7 @@
 ## Установка и удаление
 Перед началом работы с приложением «Лабиринт Минотавра» необходимо выполнить следующие действия:
 1)	Открыть веб-браузер.
-2)	Ввести в поисковую строку браузера ссылку на скачивание приложения: https://drive.google.com/file/d/17q_lAtgObJ-G5M_k1sf_kDeaM0C4dz_h/view?usp=drive_link (Windows), либо https://drive.google.com/file/d/1MezftyE6y8Eh1PBDk1eyybKKqiijRLrA/view?usp=drive_link (MacOS).
+2)	Ввести в поисковую строку браузера ссылку на скачивание приложения: https://drive.google.com/file/d/17q_lAtgObJ-G5M_k1sf_kDeaM0C4dz_h/view?usp=drive_link (Windows), https://drive.google.com/file/d/1MezftyE6y8Eh1PBDk1eyybKKqiijRLrA/view?usp=drive_link (MacOS).
 3)	На открывшейся странице Яндекс Диск или на странице Google Диск скачать архив программы.
 4)	Разархивировать архив.
 5)	Запускать приложение с файла MinotaurLabyrinth.exe.
