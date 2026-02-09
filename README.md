@@ -9,8 +9,8 @@
 1)	Открыть веб-браузер.
 2)	Ввести в поисковую строку браузера ссылку на скачивание приложения (или пройти по прямой ссылке здесь): <br> https://drive.google.com/file/d/17q_lAtgObJ-G5M_k1sf_kDeaM0C4dz_h/view?usp=drive_link (Windows), <br> https://drive.google.com/file/d/1MezftyE6y8Eh1PBDk1eyybKKqiijRLrA/view?usp=drive_link (MacOS). <br> 
 Либо отсканировать QR-код: 
-<img width="2125" height="2125" alt="qr-code (игра на Яндекс-диск)" src="https://github.com/user-attachments/assets/0ff12fe0-0fb9-4f40-ad76-14644658bff1" /> <br> 
-3)	На открывшейся странице Яндекс Диск или на странице Google Диск скачать архив программы.
+<img width="2166" height="2166" alt="qr-code (игра для виндовс с гугла)" src="https://github.com/user-attachments/assets/3febccdd-a4be-4452-9593-e4e0b5a6c43b" /> <br> 
+3)	На открывшейся странице Google Диск или на странице Яндекс Диск скачать архив программы.
 4)	Разархивировать архив.
 5)	Запускать приложение с файла MinotaurLabyrinth.exe.
 6)	Также ознакомиться с основными рабочими файлами приложения можно по ссылке на репозиторий GitHub: https://github.com/Hypaspistai/MinotaurLabyrinth/tree/main .
